@@ -1,4 +1,5 @@
-#bibliotecas grafica, pyserial, 
+#Instalar bibliotecas pysimpleGUI, pyserial, numpy
+
 
 from grafico import *	#importa o arquivo com dados da tela
 from portaserial import *
