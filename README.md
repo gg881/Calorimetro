@@ -12,10 +12,10 @@ Existem 3 vídeos explicando melhor sobre o projeto.
 <br>
 
   
-**Vídeo 2:**  Software e seu uso
+**Vídeo 2:**  Software, seu uso e procedimento de ensaio
 
 
-[![Video 2](https://img.youtube.com/vi/grldM0TJIz4/0.jpg)](https://www.youtube.com/watch?v=grldM0TJIz4)
+[![Video 2](https://img.youtube.com/vi/yg-kUi77DBA/0.jpg)](https://www.youtube.com/watch?v=yg-kUi77DBA)
 
 
 <br>
